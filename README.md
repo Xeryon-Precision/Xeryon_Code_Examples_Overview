@@ -32,7 +32,7 @@
     </td>
     <td align="center" width="260">
       <a href="https://github.com/Xeryon-Precision/XD-C_Code_Examples">
-        <img src="img/XD-C_rotator.gif" alt="XD-C controller (wisselt elke 5 sec van weergave)" /><br/>
+        <img src="img/XD-C.png" width="220" height="220" alt="XD-C controller" /><br/>
         <img src="img/XD-C_badge.png" width="220" alt="XD-C Code Examples" />
       </a>
     </td>
